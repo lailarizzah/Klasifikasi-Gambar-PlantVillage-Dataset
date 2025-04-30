@@ -11,14 +11,6 @@ Model yang dilatih kemudian diekspor dalam berbagai format—**SavedModel (Tenso
 Dataset diambil dari Kaggle:
 🔗 [PlantVillage Dataset oleh Mohit Singh](https://www.kaggle.com/datasets/mohitsingh1804/plantvillage)
 
-Dataset ini mencakup berbagai kategori daun tanaman seperti:
-- Tomato_healthy  
-- Tomato_Bacterial_spot  
-- Tomato_Early_blight  
-- Tomato_Leaf_Mold  
-- Pepper__bell___healthy  
-*(dan kategori lainnya)*
-
 ---
 
 ## 🗂 Struktur File
